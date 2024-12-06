@@ -1,0 +1,37 @@
+---
+title: "Missing The Point"
+format: html
+---
+
+# Introduction
+- - -
+
+
+
+
+# Data Discovery
+- - -
+
+
+
+# Methodology
+- - -
+
+
+
+
+# Results
+- - -
+
+
+
+
+
+# Conclusion
+- - -
+
+
+
+
+# Discussion
+- - -
