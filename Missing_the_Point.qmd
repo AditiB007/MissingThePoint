@@ -15,9 +15,11 @@ format: html
 - - -
 
 ** Introduce the dataset: where it came from, why it was chosen, benefits of choosing **
-** 
-
-
+** Simple data info (# of columns, # of rows, type of information) **
+** Display one or two variables (one with very little missing data and one with most of the data missing) **
+** Display the results of imputing **
+** Talk about the overall missing data within the .csv **
+** Display the point plot of "the proportion of missing values by the cumulative proportion of variables with X missing values" **
 
 # Methodology
 - - -
