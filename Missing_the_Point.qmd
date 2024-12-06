@@ -6,11 +6,16 @@ format: html
 # Introduction
 - - -
 
-
+** Introduction to the problem at hand **
+** Explanation of why this is important **
+** Process shortly described **
 
 
 # Data Discovery
 - - -
+
+** Introduce the dataset: where it came from, why it was chosen, benefits of choosing **
+** 
 
 
 
