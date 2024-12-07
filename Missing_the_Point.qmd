@@ -25,6 +25,16 @@ The overall goal of the project is to answer the following question:
 ** Simple data info (# of columns, # of rows, type of information) **
 ** Display a univariate plot for one or two variables before and after imputing **
 - Pick one or two variables with very little missing data and show the effect of imputating it
+```{r}
+# Load in a single variable of interest
+
+# Create histogram of the variable before imputing
+
+# Impute that variable using the median or mean
+
+# Create histogram of the variable after imputing
+
+```
 - Pick one or two variables with a lot of missing data and show th effect of imputating it
 ** Display the point plot of "the proportion of missing values by the cumulative proportion of variables with X missing values" **
 ** Talk about the overall missing data within the .csv **
