@@ -6,20 +6,28 @@ format: html
 # Introduction
 - - -
 
-** Introduction to the problem at hand **
-** Explanation of why this is important **
-** Process shortly described **
+The overall goal of the project is to answer the following question:
+- At what proportion of missing values do we cut variable from the dataset vs. imputing the variable with the median?
 
+** Introduction to the problem at hand **
+- Why is missing data a problem?
+- What are common solutions to get around a missing data problem?
+- What are the consequences of the common solutions when building a predictive/descriptive model?
+
+** Process shortly described **
+- What does this report propose to answer the overall goal?
+- What does this report use to acheive the goal?
 
 # Data Discovery
 - - -
 
 ** Introduce the dataset: where it came from, why it was chosen, benefits of choosing **
 ** Simple data info (# of columns, # of rows, type of information) **
-** Display one or two variables (one with very little missing data and one with most of the data missing) **
-** Display the results of imputing **
-** Talk about the overall missing data within the .csv **
+** Display a univariate plot for one or two variables before and after imputing **
+- Pick one or two variables with very little missing data and show the effect of imputating it
+- Pick one or two variables with a lot of missing data and show th effect of imputating it
 ** Display the point plot of "the proportion of missing values by the cumulative proportion of variables with X missing values" **
+** Talk about the overall missing data within the .csv **
 
 # Methodology
 - - -
